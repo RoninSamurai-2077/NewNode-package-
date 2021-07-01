@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RoninSamurai-2077/NewNode-package-#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   }
 }
